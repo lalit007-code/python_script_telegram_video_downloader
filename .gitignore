@@ -1,0 +1,20 @@
+# Credentials & Session
+config.py
+*.session
+*.session-journal
+
+# Downloads
+downloads/
+
+# Virtual Environment
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+.claude/
